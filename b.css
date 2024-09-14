@@ -1,0 +1,19 @@
+#demo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  #demo h2 {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .light {
+    background-color: #ccc;
+  }
+  
+  .dark {
+    background-color: #333;
+  }
